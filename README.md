@@ -1,3 +1,4 @@
-# tripletloss
-One Shot learning, Siamese networks and Triplet Loss with Keras.
-See the full article here : 
+# Triplet Loss Repository : 
+
+Contains : 
+- 02 tripletloss MNIST : building a similarity comparer using triplet loss function on MNIST.
